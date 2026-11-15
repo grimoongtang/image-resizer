@@ -1,5 +1,6 @@
 <script lang="ts">
-	import favicon from '#lib/assets/favicon.svg';
+	import './layout.css';
+	import favicon from '#lib/assets/favicorn_moong.png';
 	import type { LayoutProps } from './$types';
 
 	let { children }: LayoutProps = $props();
